@@ -24,30 +24,27 @@ The following questions were of particular focus for the analysis:
 
 # Data Sources
 The datasets used in the analysis are:
-      
-      *  Customers
-      *  Departments
-      *  Orders
-      *  Orders_products_prior
-      *  Products
+  *  Customer
+  *  Departments
+  *  Orders
+  *  Orders_products_prior
+  *  Products
 
 # Tools Used
 I analyzed the data using the Anaconda distrobution of Python with the following libraries:
-     
-      *  Pandas - for data analysis
-      *  NumPy - for mathematical equations
-      *  SciPy - for data equations
-      *  Seaborn - for data visulizations
-      *  Matplotlib - for data visualizations
+  *  Pandas - for data analysis
+  *  NumPy - for mathematical equations
+  *  SciPy - for data equations
+  *  Seaborn - for data visulizations
+  *  Matplotlib - for data visualizations
 
 # Folders
 The project files are broken down into the following folders:
-
-      *  01 Project Management - contains the project brief documentation detailing the analysis
-      *  02 Data - this folder is seperated into two subfolders, original data and prepared data. Original data contains the original dataframes before any analysis and manipulation while prepared data contains the dataframes after they have been cleaned and prepared for analysis. Due to the size of the dataframes, the data folder has not been uploaded to GitHub.
-      *  03 Scripts - contains the Jupyter notebooks containing the coding for the analysis and visualizations.
-      *  04 Analysis - contains a subfolder called Visualizations that contain all of the graphs and graphics used when developing the final presentation with my insights.
-      *  05 Sent to Client - this folder contains the final presentation sent to the client in an Excel format.
+  *  01 Project Management - contains the project brief documentation detailing the analysis
+  *  02 Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
+  *  03 Scripts - contains the Jupyter notebooks containing the coding for the analysis and visualizations.
+  *  04 Analysis - contains a subfolder called Visualizations that contain all of the graphs and graphics used when developing the final presentation with my insights.
+  *  05 Sent to Client - this folder contains the final presentation sent to the client in an Excel format.
 
 # Resources
 While Instagram is an actual company that has made their data available online, the customer data, the pricing information in the products dataset, and project brief have all been fabricated by CareerFoundry for the purposes of this analysis.
